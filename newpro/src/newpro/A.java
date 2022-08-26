@@ -1,4 +1,4 @@
-package STRING;
+package newpro;
 
 public class A
 {
